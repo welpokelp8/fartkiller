@@ -2,9 +2,9 @@ import tkinter as tk
 import subprocess
 
 def launch_fartkiller():
-  subprocess.Popen(['python', 'C:/Users/ezrab/Downloads/fartkiller.py'])
+  subprocess.Popen(['python', 'C:/Users/welpokelp8/Downloads/fartkiller.py'])
 def launch_fartroaster():
-  subprocess.Popen(['python', 'C:/Users/ezrab/Downloads/fartroaster.py'])
+  subprocess.Popen(['python', 'C:/Users/welpokelp8/Downloads/fartroaster.py'])
 
 
 
